@@ -1,0 +1,11 @@
+content_version: 2
+questions_total: 528
+image_questions: 24
+images: 12
+unique_question_texts: 528
+correct_distribution: {'A': 133, 'B': 134, 'C': 131, 'D': 130}
+longest_correct_pct: 24.4
+topics: 7
+validation_errors: 0
+
+Kontrollert mot Statens vegvesen: 35 oppgaver, minst 30 riktige, 70 minutter.
